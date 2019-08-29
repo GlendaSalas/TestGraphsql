@@ -1,4 +1,4 @@
-#DOCUMENTATION
+# DOCUMENTATION
 
-##Run the server
+## Run the server
 `$ npm run start`
